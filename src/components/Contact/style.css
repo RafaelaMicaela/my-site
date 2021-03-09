@@ -13,22 +13,28 @@
     color: #61727D;
 }
 
-.footer_social .footer_social {
+.contact .footer_social {
     width: 100%;
     
   }
+
+.contact dev{
+    color:#99B4C5;
+    padding: .5rem;
+
+}  
+
+.contact .core{
+    color: #D8B5FF;
+}
   
 .contact .footer_social  img {
-    max-width: 60px;
+    max-width: 50px;
+    
+    
   }
   
 .contact  .footer_social img:not(:last-child) {
     margin-right: 10px;
   }
   
-.contact iframe {  
-    border: 0;
-    width: 100%;
-    height: 400px;
-    margin-bottom: 15px;
-  }
