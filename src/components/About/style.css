@@ -14,6 +14,19 @@
     text-align: center;   
 }
 
+.about .chip{
+    display: inline-block;
+    padding: 0 25px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    border-radius: 25px;
+    background-color: #D3BBED;
+    color: #61727D;
+    cursor: pointer;
+
+}
+
 .about .info{
     width: 100%;
     

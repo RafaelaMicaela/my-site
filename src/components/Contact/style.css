@@ -1,0 +1,34 @@
+.contact {
+    flex-grow: 1;
+  }
+  
+.contact h1 {
+    margin-bottom: 20px;
+    color: #99B4C5;
+  }
+.contact h4 {
+    color: #99B4C5;
+}
+.contact p{
+    color: #61727D;
+}
+
+.footer_social .footer_social {
+    width: 100%;
+    
+  }
+  
+.contact .footer_social  img {
+    max-width: 60px;
+  }
+  
+.contact  .footer_social img:not(:last-child) {
+    margin-right: 10px;
+  }
+  
+.contact iframe {  
+    border: 0;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 15px;
+  }

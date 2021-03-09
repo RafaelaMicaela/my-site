@@ -21,6 +21,28 @@ const About = () => {
                 atualmente moro em Natal/RN. Tenho 23 anos sou discente em análise e desenvolvente de sistema pelo IFRN. Tenho expêriencia em suporte técnico e desenvolvimento.
                 </p>
 
+                <div className="chip">
+                   <span>Teste</span>
+                </div>
+                <div className="chip">
+                   <span>Teste</span>
+                </div>
+                <div className="chip">
+                   <span>Teste</span>
+                </div>
+                <div className="chip">
+                   <span>Teste</span>
+                </div>
+                <div className="chip">
+                   <span>Teste</span>
+                </div>
+                <div className="chip">
+                   <span>Teste</span>
+                </div>
+                <div className="chip">
+                   <span>Teste</span>
+                </div>
+
                 <AddChip />
                 
            
