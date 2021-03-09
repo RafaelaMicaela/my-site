@@ -1,5 +1,9 @@
 
+import React, { Component} from 'react'
+import AddChip from "./AddChip";
 import "./style.css";
+
+
 
 const About = () => {
     return (
@@ -16,7 +20,12 @@ const About = () => {
                 <p>
                 atualmente moro em Natal/RN. Tenho 23 anos sou discente em análise e desenvolvente de sistema pelo IFRN. Tenho expêriencia em suporte técnico e desenvolvimento.
                 </p>
- 
+
+                <AddChip />
+                
+           
+
+                
             
 
         </div>

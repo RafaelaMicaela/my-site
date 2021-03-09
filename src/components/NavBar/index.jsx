@@ -60,11 +60,11 @@ const NavBar = () => {
 
             <li>
                 <Link
-                  to="/home"
+                  to="/"
                   onClick={handleClose}
-                  style={{ color: location.pathname === "/home" && "#D3BBED" }}
+                  style={{ color: location.pathname === "/" && "#D3BBED" }}
                 >
-                  Home
+                  Início
                 </Link>
               </li>
         
