@@ -92,7 +92,7 @@ const NavBar = () => {
                   onClick={handleClose}
                   style={{ color: location.pathname === "/contact" && "#D3BBED" }}
                 >
-                  Contado
+                  Contato
                 </Link>
               </li>
             </ul>
