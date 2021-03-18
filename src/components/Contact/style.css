@@ -18,9 +18,15 @@
 
 .contact .footer_social {
     width: 100%;
-    
+   
     
   }
+ 
+  .contact .footer_social a{
+    margin: 0 9px 0 9px;
+   
+  
+  } 
 
 
 .contact .dev a{

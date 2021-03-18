@@ -11,7 +11,7 @@ function Home() {
                     <p>Desenvolvedora Front-end</p>
                 </h1>
                 <Link to="about">
-                    <button>Mais Infor</button>
+                    <button>Sobre</button>
                 </Link>
             </div>
 
